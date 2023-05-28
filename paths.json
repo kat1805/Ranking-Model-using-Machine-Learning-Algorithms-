@@ -1,0 +1,6 @@
+{
+    "raw_internal_data_path" : "../data/tables/",
+    "curated_data_path" : "../data/curated/",
+    "external_data_path" : "../data/",
+    "visualisation_path" : "../plots/"
+}
