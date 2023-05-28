@@ -22,18 +22,7 @@ Run the requirements.txt for a pip installation.
 ### How to run the project
 To run the pipeline, visit `../notebook/final_summary.ipynb` and run the cells in order.
 
-### File directory
-The followings shows "file name: location of the directory"
-
-- Jupyter Notebooks: `../notebooks`
-- `.py` scripts: `../scripts`
-- Raw data: `../data`
-- Curated / transformed data: `../data/curated` (these are regenerated after running a code)
-- Plots: `../plots`
-
-
 ### Authors
 
-MAST30034 Group 10:
-Aishwarya Hirve, Aoi Fujii, Arshnoor Kaur, Hannah Chin, Kasturi Deshpande
+Kasturi Deshpande, Aishwarya Hirve, Aoi Fujii, Arshnoor Kaur, Hannah Chin
 
